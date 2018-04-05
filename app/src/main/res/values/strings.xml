@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimaDraw</string>
+
+    <string name="msg_brush_size">Brush size</string>
+    <string name="msg_opacity_level">Opacity level</string>
+
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+</resources>
